@@ -2,7 +2,7 @@
 
 ## Project description and on what i have learnt in this project
 
-  -What this projects can be described as a focus on mastering the Linux terminal and Git version control by completing practical command-line exercises. It covers navigating the file system, managing files and directories, searching for files, and using Git to track changes and collaborate through GitHub. The project emphasizes completing tasks entirely from the terminal without relying on a graphical file explorer, helping build confidence in command-line workflows
+  -What this project can be described as a focus on mastering the Linux terminal and Git version control by completing practical command-line exercises. It covers navigating the file system, managing files and directories, searching for files, and using Git to track changes and collaborate through GitHub. The project emphasizes completing tasks entirely from the terminal without relying on a graphical file explorer, helping build confidence in command-line workflows
 
 
 ## Live Demo
