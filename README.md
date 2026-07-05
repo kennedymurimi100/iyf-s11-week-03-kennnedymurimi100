@@ -1,6 +1,8 @@
 # iyf-s11-week-03-kennnedymurimi100 Project
 
-Brief description of your project and what you learned this week.
+##Project description and on what i have learnt in this project
+  -What this projects can be described as a focus on mastering the Linux terminal and Git version control by completing practical command-line exercises. It covers navigating the file system, managing files and directories, searching for files, and using Git to track changes and collaborate through GitHub. The project emphasizes completing tasks entirely from the terminal without relying on a graphical file explorer, helping build confidence in command-line workflows
+
 
 ## Live Demo
 
@@ -8,8 +10,8 @@ Brief description of your project and what you learned this week.
 
 ## Screenshot
 
-![Project Screenshot](<img width="606" height="300" alt="Screenshot 2026-07-04 224154" src="https://github.com/user-attachments/assets/85e58567-49c6-40e7-ade0-0dd40361299e" />
-)
+![Project Screenshot](https://github.com/user-attachments/assets/85e58567-49c6-40e7-ade0-0dd40361299e)
+
 
 ## Features
 
@@ -38,7 +40,13 @@ iyf-s11-week-03-yourusername/
 \`\`\`
 
 ## What I Learned
-I learned on how to use 
+- Navigating the Linux file system using terminal commands.
+- Creating, moving, renaming, copying, and deleting files and directories.
+- Searching for files and viewing their contents from the command line.
+- Understanding file permissions and basic Linux utilities.
+- Initializing and managing Git repositories.
+- Staging, committing, and pushing changes to GitHub.
+- Developing an efficient command-line workflow used by professional software developers.
 
 ## Future Improvements
 
