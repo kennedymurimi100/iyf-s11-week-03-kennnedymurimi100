@@ -1,14 +1,15 @@
-# Your Name - Week 03 Project
+# iyf-s11-week-03-kennnedymurimi100 Project
 
 Brief description of your project and what you learned this week.
 
 ## Live Demo
 
-[View Live Site](https://yourusername.github.io/iyf-s11-week-03-yourusername)
+[View Live Site](https://kennedymurimi100.github.io/iyf-s11-week-03-kennedymurimi100)
 
 ## Screenshot
 
-![Project Screenshot](./images/screenshot.png)
+![Project Screenshot](<img width="606" height="300" alt="Screenshot 2026-07-04 224154" src="https://github.com/user-attachments/assets/85e58567-49c6-40e7-ade0-0dd40361299e" />
+)
 
 ## Features
 
@@ -47,9 +48,9 @@ I learned on how to use
 
 ## Contact
 
-- Email: your@email.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: [sprtajacklee@gmail.com]
+- LinkedIn: [kennedymurimi](www.linkedin.com/in/kennedy-murimi-878b02197])
+- GitHub: [@kennedymurimi100](https://github.com/kennedymurimi100])
 
 ## License
 
