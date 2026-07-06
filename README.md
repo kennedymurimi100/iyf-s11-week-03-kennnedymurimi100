@@ -1,4 +1,4 @@
-# iyf-s11-week-03-kennnedymurimi100 Project
+# iyf-s11-week-03-kennnedymurimi100 version 2
 
 ## Project description and on what i have learnt in this project
 
